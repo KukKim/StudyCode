@@ -1,0 +1,1 @@
+/Users/dongkukkim/dask/study/rust/ch14/testProject/target/package/vortiTestProject-0.1.0/target/debug/libvortiTestProject.rlib: /Users/dongkukkim/dask/study/rust/ch14/testProject/target/package/vortiTestProject-0.1.0/src/lib.rs

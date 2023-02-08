@@ -1,0 +1,1 @@
+/Users/dongkukkim/dask/study/rust/ch19/macroTest/target/debug/macroTest: /Users/dongkukkim/dask/study/rust/ch19/hello_macro/src/lib.rs /Users/dongkukkim/dask/study/rust/ch19/hello_macro_derive/src/lib.rs /Users/dongkukkim/dask/study/rust/ch19/macroTest/src/lib.rs /Users/dongkukkim/dask/study/rust/ch19/macroTest/src/main.rs

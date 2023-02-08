@@ -1,0 +1,1 @@
+/Users/dongkukkim/dask/study/rust/ch13/minigrep_v2/target/debug/minigrep_v2: /Users/dongkukkim/dask/study/rust/ch13/minigrep_v2/src/lib.rs /Users/dongkukkim/dask/study/rust/ch13/minigrep_v2/src/main.rs

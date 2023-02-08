@@ -1,0 +1,1 @@
+/Users/dongkukkim/dask/study/rust/ch07/module_ex02/target/debug/module_ex02: /Users/dongkukkim/dask/study/rust/ch07/module_ex02/src/lib.rs /Users/dongkukkim/dask/study/rust/ch07/module_ex02/src/main.rs

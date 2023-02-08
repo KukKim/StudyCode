@@ -1,0 +1,1 @@
+/Users/dongkukkim/dask/study/rust/ch17/oop_ex02_trait/target/debug/oop_ex02_trait: /Users/dongkukkim/dask/study/rust/ch17/oop_ex02_trait/src/lib.rs /Users/dongkukkim/dask/study/rust/ch17/oop_ex02_trait/src/main.rs
